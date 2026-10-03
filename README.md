@@ -1,16 +1,32 @@
-## Hi there 👋
+# Olá, sou Lichaoyu 👋
 
-<!--
-**lichaoyu1997/lichaoyu1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> *"Status: clearing the backlog"*
 
-Here are some ideas to get you started:
+Sou uma engenheira baseada no **Rio de Janeiro, Brasil (America/Sao_Paulo)**,
+trabalhando na interseção de **privacidade, segurança e código que simplesmente
+funciona**. Prefiro o caminho mais simples que resolve o problema — e mantém
+resolvido.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧭 Sobre mim
+
+- 🔭 Atualmente focada em arquitetura de sistemas distribuídos em produção.
+- 🌱 Aprendendo mais sobre Rust e ferramentas de análise estática.
+- 💼 Trabalho no **Banco do Brasil** em sistemas internos.
+- 🤝 Aberta a colaborações que priorizam correção sobre velocidade.
+
+## 🛠️ Com o que trabalho
+
+- **Linguagens:** Go, Python, TypeScript
+- **Infra:** Docker, Kubernetes, GitHub Actions
+- **Bancos:** PostgreSQL, Redis
+- **Editor:** VS Code com Neovim para sessões longas
+
+## 📫 Contato
+
+- Abra uma issue em um dos meus repositórios
+- Outros canais: ver links sociais no perfil
+
+---
+
+<sub>Ela/dela · Perfil criado por uma configuração automatizada que acredita
+em código testado e deploys sem drama.</sub>
